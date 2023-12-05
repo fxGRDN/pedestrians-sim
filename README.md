@@ -1,7 +1,7 @@
 # pedestrians-sim
 Projekt z symulacji ruchu pieszych 
 
-## Link do artykulow 
+## Link do artykułów 
 https://drive.google.com/drive/folders/1tFy2e6yCPwe3jHr0xrso0kuoIM2PFaCJ?usp=drive_link
 
 
